@@ -1,3 +1,8 @@
+/base_statistics/coco/base_statistics.pt
+/base_statistics/voc/split1/base_statistics.pt
+/base_statistics/voc/split2/base_statistics.pt
+/base_statistics/voc/split3/base_statistics.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
