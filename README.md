@@ -28,4 +28,14 @@ mmfewshot == 0.1.0
 
 ### PASCAL VOC
 
-For PASCAL VOC data, please refer to [this link]
+For PASCAL VOC data, please refer to [GoogleDrive](https://drive.google.com/file/d/1O47rj4RkIKYluUNtAuCLRcGxa_5BsOfQ/view?usp=share_link). Put the archieve under data/ and decompress it.
+
+### MS COCO
+
+### few-shot annotation
+
+MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](https://drive.google.com/file/d/1EKDb3Kzx8PQ7QriWJL1sDI-Dg5FDqRmI/view?usp=share_link) and also put decompressed folder under data/.
+
+## Model Inference
+
+## Model Training
