@@ -38,4 +38,14 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
 
 ## Model Inference
 
+### MS COCO
+
+| setting | mAP | model |
+| --- | --- | --- |
+| 1shot | 5.7 | [model](https://drive.google.com/file/d/1bZjoU971P0XZKPVO4Tk68papJe5PTIyr/view?usp=sharing) |
+| 2shot | 7.1 | - |
+| 3shot | 8.6 | - |
+| 10shot | 12.5 | - |
+| 30shot | 17.1 | - |
+
 ## Model Training
