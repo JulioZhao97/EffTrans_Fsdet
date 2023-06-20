@@ -48,4 +48,12 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
 | 10shot | 12.5 | - |
 | 30shot | 16.7 | - |
 
+1. download model from link provided and put model under corresponding folder: ``./eval_configs/coco/kshot/````
+2. run the following command
+   ```
+   CUDA_VISIBLE_DEVICES=0 python ./tools/detection/test.py \
+    ./eval_configs/coco/kshot/config.py \
+    ./eval_configs/coco/kshot/best.pth --eval bbox
+   ```
+
 ## Model Training
