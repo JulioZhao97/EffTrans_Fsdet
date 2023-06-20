@@ -46,6 +46,6 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
 | 2shot | 7.1 | - |
 | 3shot | 8.6 | - |
 | 10shot | 12.5 | - |
-| 30shot | 17.1 | - |
+| 30shot | 16.7 | - |
 
 ## Model Training
