@@ -43,10 +43,10 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
 | setting | mAP | model |
 | --- | --- | --- |
 | 1shot | 5.7 | [model](https://drive.google.com/file/d/1bZjoU971P0XZKPVO4Tk68papJe5PTIyr/view?usp=sharing) |
-| 2shot | 7.1 | - |
-| 3shot | 8.6 | - |
+| 2shot | 7.1 | [model](https://drive.google.com/file/d/1QmrXn4XSVjp71AqGVVC7b0qHHLrQZqlu/view?usp=drive_link) |
+| 3shot | 8.6 | [model](https://drive.google.com/file/d/14rSqI014ErEEFYhKFaCduWb7DvyCPX8T/view?usp=drive_link) |
 | 10shot | 12.5 | - |
-| 30shot | 16.7 | - |
+| 30shot | 16.7 | [model](https://drive.google.com/file/d/1gIzgNU16pZNfMz5dY2VFFWL1bYVqUrBa/view?usp=drive_link) |
 
 1. download model from link provided and put model under corresponding folder: ``./eval_configs/coco/kshot/````
 2. run the following command
@@ -57,3 +57,4 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
    ```
 
 ## Model Training
+- [] To be done
