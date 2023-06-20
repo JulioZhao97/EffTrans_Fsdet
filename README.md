@@ -48,7 +48,7 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
 | 10shot | 12.5 | - |
 | 30shot | 16.7 | [model](https://drive.google.com/file/d/1gIzgNU16pZNfMz5dY2VFFWL1bYVqUrBa/view?usp=drive_link) |
 
-1. download model from link provided and put model under corresponding folder: ``./eval_configs/coco/kshot/````
+1. download model from link provided and put model under corresponding folder: ```./eval_configs/coco/kshot/````
 2. run the following command
    ```
    CUDA_VISIBLE_DEVICES=0 python ./tools/detection/test.py \
