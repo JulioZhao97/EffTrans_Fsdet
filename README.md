@@ -57,4 +57,4 @@ MMFewshot using few-shot split file prepared in advance. Download [GoogleDrive](
    ```
 
 ## Model Training
-- [] To be done
+- [ ] To be done
