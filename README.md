@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This reposity is codebase for ACMMM2022 paper ["Exploring Effective Knowledge Transfer for Few-shot Object Detection"](https://arxiv.org/pdf/2210.02021.pdf) .
+This reposity is codebase for ACM Multimedia 2022 paper ["Exploring Effective Knowledge Transfer for Few-shot Object Detection"](https://arxiv.org/pdf/2210.02021.pdf) .
 
 Codebase is based on MMFewshot. For installing MMFewshot, please refer to [this page](https://github.com/open-mmlab/mmfewshot)
 
